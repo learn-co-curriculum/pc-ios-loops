@@ -1,4 +1,5 @@
 #Loops 
+![loopydog](http://www.chicsonline.org/used2/loopy-dog02.jpg)
 
 Some extra practice with loops:
 
