@@ -17,7 +17,7 @@ Write a for loop that will iterate from 0 to 20. For each iteration, it will che
 
 
 
-**3) Use a nested while loop to reproduce the following output **
+**3) Use a nested while loop to reproduce the following output**
 
 
 ```
@@ -33,7 +33,7 @@ Write a for loop that will iterate from 0 to 20. For each iteration, it will che
 ```
 
 
-**4) Try to write code that generates the following output:
+**4) Try to write code that generates the following output:**
 
 
 ```
