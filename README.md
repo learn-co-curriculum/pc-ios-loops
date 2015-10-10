@@ -5,7 +5,7 @@
 ##Some extra practice with loops:
 
 
-**1) Use a while loop to print the integer values 1 to 10 on the screen**
+**1) Use a for loop to print the integer values 1 to 10 on the screen**
 
 	12345678910
 
