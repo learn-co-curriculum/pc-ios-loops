@@ -20,10 +20,15 @@ Write a for loop that will iterate from 0 to 20. For each iteration, it will che
 	55555
 	
 4.  
+
 	1
+
        121
+       
       12321
+      
      1234321
+     
     123454321
      1234321
       12321
