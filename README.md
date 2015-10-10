@@ -3,15 +3,20 @@
 Some extra practice with loops:
 
 
-1. Use a while loop to print the integer values 1 to 10 on the screen
+1) Use a while loop to print the integer values 1 to 10 on the screen
 
 	12345678910
 
-2. The even/odd reporter
+
+
+2) The even/odd reporter
 
 Write a for loop that will iterate from 0 to 20. For each iteration, it will check if the current number is even or odd, and report that to the screen (e.g. "2 is even").
 
-3. Use a nested while loop to reproduce the following output
+
+
+3) Use a nested while loop to reproduce the following output
+
 
 ```
 	1
@@ -25,7 +30,9 @@ Write a for loop that will iterate from 0 to 20. For each iteration, it will che
 	55555
 ```
 
-4.  
+
+4)
+
 
 ```
 	    1
