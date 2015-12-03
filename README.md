@@ -1,5 +1,6 @@
 #Loops 
 ![loopydog](http://www.chicsonline.org/used2/loopy-dog02.jpg)
+*Say "hi" to Loopy to puppy.*
 
 
 ##Some extra practice with loops:
