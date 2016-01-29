@@ -47,4 +47,4 @@ Write a for loop that will iterate from 0 to 20. For each iteration, it will che
         1
 ```
 
-<a href='https://learn.co/lessons/pc-ios-loops' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-loops' title='Loops'>Loops</a> on Learn.co and start learning to code for free.</p>
